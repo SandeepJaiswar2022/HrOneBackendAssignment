@@ -8,4 +8,4 @@ services:
       - key: MONGO_URI
         value: ${MONGO_URI}
       - key: MONGO_DB_NAME
-        value: hr_one_ecommerce_assinment
+        value: ${MONGO_DB_NAME}
